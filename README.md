@@ -65,6 +65,6 @@
 <h2>🔗 Links</h2>
 
 <ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/Yulya-ko/Christmas-countdown" target="_blank">https://github.com/Yulya-ko/MyFirstProject</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/Yulya-ko/Christmas-countdown" target="_blank">https://github.com/Yulya-ko/Christmas-countdown</a></li>
   <li><strong>Demo:</strong> <a href="https://christmas-coming.netlify.app" target="_blank">https://christmas-coming.netlify.app</a></li>
 </ul>
